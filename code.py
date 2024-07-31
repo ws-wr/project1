@@ -1,1 +1,1 @@
-print('Hello Space')
+print('123')
